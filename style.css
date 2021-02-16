@@ -31,7 +31,7 @@ html, body {
 .carousel-caption h1 {
   font-size: 500%;
   text-transform: uppercase;
-  text-shadow: 1px 1px 10px #000;
+  text-shadow: 1px 1px 10px rgb(27, 59, 119);
 }
 .carousel-caption h3 {
   font-size: 200%;
@@ -40,12 +40,12 @@ html, body {
   padding-bottom: 1rem;
 }
 .btn-primary {
-  background-color: #6648b1;
-  border: 1px solid #6648b1;
+  background-color: #232dc4;
+  border: 1px solid #1a1c8b;
 }
 .btn-primary:hover {
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #19aac4;
+  border: 1px solid #4286a5;
 }
 .jumbotron {
   padding: 1rem;
@@ -64,16 +64,16 @@ html, body {
   width: 95%;
   margin-top: .3rem;
 }
-.fa-code {
-  color: #e54d26
+.fa-heart {
+  color: #f70b0b
 }
-.fa-bold {
-  color: #563d7c;
+.fa-birthday-cake {
+  color: #16bec4;
 }
-.fa-css3 {
-  color: #2163af
+.fa-paw {
+  color: #975a28
 }
-.fa-code, .fa-bold, .fa-css3 {
+.fa-heart, .fa-birthday-cake, .fa-paw {
   font-size: 4em;
   margin: 1rem;
 }
@@ -94,25 +94,25 @@ html, body {
 .fa-twitter {
   color: #00aced;
 }
-.fa-google-plus-g {
-  color: #dd4b39;
+.fa-snapchat-ghost {
+  color: yellow;
 }
 .fa-instagram {
-  color: #517fa4;
+  color: #db51e7;
 }
 .fa-youtube {
-  color: #bb0000
+  color: #d30404
 }
 .fa-facebook:hover,
 .fa-twitter:hover,
-.fa-google-plus-g:hover,
+.fa-snapchat-ghost:hover,
 .fa-instagram:hover,
 .fa-youtube:hover {
     color: #d5d5d5;
 }
 footer {
-background-color: #3f3f3f;
-color: #d5d5d5;
+background-color: #101e70;
+color: #b1cee2;
 padding-top: 2rem;
 }
 hr.light {
